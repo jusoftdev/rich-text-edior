@@ -1,1 +1,1 @@
-# rich-text-edior
+# rich-text-editor
