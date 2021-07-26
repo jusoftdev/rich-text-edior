@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/jusoftdev/rich-text-editor">
-    <img src="https://i.imgur.com/20i2IKX.png" alt="Logo">
+    <img src="https://i.imgur.com/korJkEc.png" alt="Logo">
   </a>
 
   <h3 align="center">Rich Text Editor</h3>
@@ -89,17 +89,12 @@ No prerequisities needed
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Beautiful responsive design
-<img src="https://i.imgur.com/v1gSm5R.png" />
-<img src="https://i.imgur.com/Kvu3Eam.png" />
-Showing results in an useful way
-<img src="https://i.imgur.com/kIaOSie.png" />
-Pagination
-<img src="https://i.imgur.com/ghpSFcf.png" />
-Fully responsive Design <br>
-<img src="https://i.imgur.com/ym4XODw.png" />
-<img src="https://cdn.discordapp.com/attachments/828176464041476111/868920497113530479/unknown.png" />
-<br>
+High variations of textstyling
+<img src="https://i.imgur.com/fgaw4iA.png" />
+Add images
+<img src="https://i.imgur.com/iOM8X96.png" />
+Get the HTML sourcecode of your text
+<img src="https://i.imgur.com/PupJhBU.png" />
 
 
 
