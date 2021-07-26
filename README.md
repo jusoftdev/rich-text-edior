@@ -139,6 +139,7 @@ Project Link: [https://github.com/jusoftdev/rich-text-editor](https://github.com
 ## Contributors
 
 * [juhom205](https://github.com/juhom205)
+* [ismailpw](https://github.com/ismailpw)
 
 
 
