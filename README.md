@@ -8,7 +8,7 @@
   <h3 align="center">Rich Text Editor</h3>
 
   <p align="center">
-    A simple Texteditor which can export HTML 
+    A simple web text editor which can export HTML 
     <br />
     <a href="https://github.com/jusoftdev/rich-text-editor"><strong>Explore the docs »</strong></a>
     <br />
