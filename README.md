@@ -92,7 +92,7 @@ No prerequisities needed
 High variations of textstyling
 <img src="https://i.imgur.com/fgaw4iA.png" />
 Add images<br>
-<img src="https://i.imgur.com/iOM8X96.png" />
+<img src="https://i.imgur.com/iOM8X96.png" /><br>
 Get the HTML sourcecode of your text
 <img src="https://i.imgur.com/PupJhBU.png" />
 
